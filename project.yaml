@@ -1,5 +1,5 @@
 basic:
-    name: 'www.opploans.com batch 9'
+    name: 'https://www.opploans.com batch 9'
     environments:
         production: 'https://www.opploans.com'
         staging: ''
